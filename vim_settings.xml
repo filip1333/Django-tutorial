@@ -2,7 +2,11 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1558287177552">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
@@ -10,6 +14,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
