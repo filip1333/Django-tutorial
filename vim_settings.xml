@@ -2,21 +2,19 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="D:/PycharmProjects/Luźne/Django/Django-tutorial/polls/urls.py" timestamp="1558292767866">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="D:/PycharmProjects/Luźne/Django/Django-tutorial/polls/views.py" timestamp="1558292725571">
-        <mark key="[" line="3" column="4" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
