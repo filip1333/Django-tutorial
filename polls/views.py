@@ -25,9 +25,6 @@ class ResultView(generic.DetailView):
     template_name = 'polls/result.html'
 
 
-from .models import Choice, Question
-
-
 def index(request):
     latest_question_list = Question.objects.order_by('_pub_date')[:5]
     context = {'latest_question_list' : latest_question_list}
